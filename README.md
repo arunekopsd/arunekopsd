@@ -1,12 +1,12 @@
 # Hi, I'm Farhan 👋
 
-<!-- One or two lines about you: what you're studying or working on, what you're into. -->
-I like building things that sit between software and the physical world, from machine-learning web apps to Arduino instruments.
+I have a budding interest in cybersecurity, and I also enjoy building machine learning, web and hardware projects.
 
 ## Projects
 
 | Project | What it is | Built with |
 |---|---|---|
+| [sbom-supply-chain-analysis](https://github.com/arunekopsd/sbom-supply-chain-analysis) | SBOM generation and vulnerability analysis of container base images using Syft and Grype | Syft, Grype, CycloneDX, SPDX |
 | [GISRv2](https://github.com/arunekopsd/GISRv2) | Tracks a player's emotions through the webcam before, during and after gameplay to measure how a game affects mood | Python, Flask, Keras, OpenCV, Firebase |
 | [cochin-reclaim-website](https://github.com/arunekopsd/cochin-reclaim-website) | Multi-page company website for a reclaimed rubber manufacturer | HTML, CSS, JavaScript |
 | [Laptop-Recommender](https://github.com/arunekopsd/Laptop-Recommender) | Recommends laptops by use case using content-based filtering and cosine similarity | Python, Flask, scikit-learn |
@@ -16,11 +16,8 @@ I like building things that sit between software and the physical world, from ma
 
 ## Tools I use
 
-Python · Flask · TensorFlow / Keras · OpenCV · Firebase · pandas · scikit-learn · Jupyter · Arduino / C++ · HTML & CSS · Git
+Python · Flask · TensorFlow / Keras · OpenCV · Firebase · pandas · scikit-learn · Jupyter · Arduino / C++ · HTML & CSS · Git · Syft · Grype
 
 ## Find me
 
-[Instagram](https://www.instagram.com/aruneko.psd/)
-
-[LinkedIn](https://www.linkedin.com/in/farhan-naeem-b700bb174/)
-<!-- Add LinkedIn, portfolio or email here if you want -->
+[LinkedIn](https://www.linkedin.com/in/farhan-naeem-b700bb174/) · [Instagram](https://www.instagram.com/aruneko.psd/)
