@@ -21,5 +21,6 @@ Python · Flask · TensorFlow / Keras · OpenCV · Firebase · pandas · scikit-
 ## Find me
 
 [Instagram](https://www.instagram.com/aruneko.psd/)
+
 [LinkedIn](https://www.linkedin.com/in/farhan-naeem-b700bb174/)
 <!-- Add LinkedIn, portfolio or email here if you want -->
