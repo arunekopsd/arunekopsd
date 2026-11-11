@@ -16,7 +16,7 @@ I have a budding interest in cybersecurity, and I also enjoy building machine le
 
 ## Tools I use
 
-Python · Flask · TensorFlow / Keras · OpenCV · Firebase · pandas · scikit-learn · Jupyter · Arduino / C++ · HTML & CSS · Git · Syft · Grype
+Python · Flask · TensorFlow · OpenCV · Firebase · pandas · LaTeX · Jupyter · C++ · HTML & CSS · Git · Syft · Grype
 
 ## Find me
 
